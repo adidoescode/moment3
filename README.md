@@ -2,7 +2,9 @@
 
 Detta repository innehåller mina lösningar och material för uppgiften "Versionshantering" i kursen Introduktion till Javascript.
 
-- [Min profil]
+# Min profil
+
+https://github.com/adidoescode
 
 ## Skapa en lokal klon av repositoryt
 
